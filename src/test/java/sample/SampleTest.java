@@ -11,5 +11,6 @@ public class SampleTest {
     @Test
     public void case4(){
         System.out.println("This is case4 from SampleTest");
+
     }
 }
