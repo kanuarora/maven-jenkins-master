@@ -6,6 +6,7 @@ public class SampleTest {
     @Test
     public void case3(){
         System.out.println("This is case3 from SampleTest");
+
     }
 
     @Test
